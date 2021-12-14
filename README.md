@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun2003&label=Profile%20views&color=0e75b6&style=flat" alt="nipun2003" /> </p>
 
-- 🔭 I’m currently working on [Early-Bird alarm app](https://github.com/nipun2003/Early-Bird)
+- 🔭 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.jhssc.examhelper">Examhelper android app</a>
 
-- 🌱 I’m currently learning **Android studio and java**
+- 🌱 I’m currently learning **Jetpack compose**
 
-- 🤝 I’m looking for help with **xml,java**
+- 🤝 I’m looking for help with **jetpack compose , kotlin coroutines**
 
 - 💬 Ask me about **how to start in android studio**
 
