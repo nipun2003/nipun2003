@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipun Kumar</h1>
-<h3 align="center">A student of Information Technology undergraduate in the freshman year at Bit Sindri. I am an Android development and competitive coding Enthusiasts, i have done many project in Android Studio and i love to create a new and unique app which is more closer to real life problem with the knowledge i have acquired.</h3>
+<h3 align="center">A student of Information Technology, Sophomore at Bit Sindri. I am an Android development and competitive coding Enthusiasts, i have done many project in Android Studio and i love to create a new and unique app which is more closer to real life problem with the knowledge i have acquired.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun2003&label=Profile%20views&color=0e75b6&style=flat" alt="nipun2003" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nipunvirat0@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Koi sense hai iss baat ka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
