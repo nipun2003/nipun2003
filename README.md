@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nipun Kumar</h1>
-<h3 align="center">A student of Information Technology, Final year at Bit Sindri. Software engineer at <a href="https://mayadataprivacy.eu/">Maya Data Privacy</a></h3>
+<h3 align="center">A student of Information Technology, Final year at Bit Sindri. Software engineer at <a target="_blank" href="https://mayadataprivacy.eu/">Maya Data Privacy</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun2003&label=Profile%20views&color=0e75b6&style=flat" alt="nipun2003" /> </p>
 
-- 🔭 I’m currently working with <a href="https://mayadataprivacy.eu/">Maya Data Privacy</a>
+- 🔭 I’m currently working with <a target="_blank" href="https://mayadataprivacy.eu/">Maya Data Privacy</a>
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
